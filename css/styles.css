@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e4f0d7;
+  justify-content: center;
+  align-items: center;
+}
+.te-n {
+  color: rgb(126, 120, 120);
+  line-height: 1.5;
+}
+#container {
+  background-color: white;
+  margin: 20%;
+  border-radius: 10px;
+  padding: 5%;
+}
+
+.anh img {
+  width: 100%;
+  border-radius: 5px;
+}
+.c-pre {
+  color: rgb(129, 55, 81);
+}
+.m-nau {
+  color: rgb(119, 40, 40);
+}
+.pre-time {
+  background-color: #fff7fc;
+  padding: 3%;
+  border-radius: 5px;
+}
+.pre-time ul li {
+  color: rgb(126, 120, 120);
+  margin-bottom: 9px;
+}
+
+.ins ol li::marker {
+  font-weight: bold;
+  color: rgb(58, 50, 50);
+  margin-bottom: 6px;
+}
+
+.ins ol {
+  border-bottom: 1px solid rgb(194, 190, 190);
+  padding-left: 25px;
+}
+
+.ins ol li {
+  color: rgb(126, 120, 120);
+  padding-bottom: 10px;
+  line-height: 1.5;
+}
+
+.value {
+  font-weight: bold;
+  text-align: left;
+}
+
+.nuti table {
+  width: 100%;
+}
+
+.nuti table tr {
+  border: #e9ebcd 1px solid;
+  border-radius: 2px;
+}
+
+table {
+  border-collapse: collapse;
+}
+tr {
+  padding-bottom: 6px;
+}
+td {
+  width: 50%;
+  padding-bottom: 6px;
+}
+
+.ing ul li {
+  color: rgb(126, 120, 120);
+  margin-bottom: 6px;
+}
